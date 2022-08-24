@@ -38,3 +38,9 @@ while True:
         break
 vid.release()
 cv2.destroyAllWindows()    
+
+# Create tracker 
+# create bounding box--drawBox()
+#goal_track()
+# Calculate distance between center of ball and center of basket and draw the points
+# Draw trajectory
